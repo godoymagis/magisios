@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		566CE2AA1ABA555F0010F2B9 /* Announcements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566CE2A91ABA555F0010F2B9 /* Announcements.swift */; };
 		568A96B01ABA4A4F004BD4A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568A96AF1ABA4A4F004BD4A7 /* AppDelegate.swift */; };
-		568A96B21ABA4A4F004BD4A7 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568A96B11ABA4A4F004BD4A7 /* FirstViewController.swift */; };
-		568A96B41ABA4A4F004BD4A7 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568A96B31ABA4A4F004BD4A7 /* SecondViewController.swift */; };
+		568A96B21ABA4A4F004BD4A7 /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568A96B11ABA4A4F004BD4A7 /* Calendar.swift */; };
+		568A96B41ABA4A4F004BD4A7 /* Colleges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568A96B31ABA4A4F004BD4A7 /* Colleges.swift */; };
 		568A96B71ABA4A4F004BD4A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 568A96B51ABA4A4F004BD4A7 /* Main.storyboard */; };
 		568A96B91ABA4A4F004BD4A7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 568A96B81ABA4A4F004BD4A7 /* Images.xcassets */; };
 		568A96BC1ABA4A4F004BD4A7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 568A96BA1ABA4A4F004BD4A7 /* LaunchScreen.xib */; };
@@ -27,11 +28,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		566CE2A91ABA555F0010F2B9 /* Announcements.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Announcements.swift; sourceTree = "<group>"; };
 		568A96AA1ABA4A4F004BD4A7 /* Magis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Magis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		568A96AE1ABA4A4F004BD4A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		568A96AF1ABA4A4F004BD4A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		568A96B11ABA4A4F004BD4A7 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		568A96B31ABA4A4F004BD4A7 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		568A96B11ABA4A4F004BD4A7 /* Calendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar.swift; sourceTree = "<group>"; };
+		568A96B31ABA4A4F004BD4A7 /* Colleges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colleges.swift; sourceTree = "<group>"; };
 		568A96B61ABA4A4F004BD4A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		568A96B81ABA4A4F004BD4A7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		568A96BB1ABA4A4F004BD4A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -80,8 +82,9 @@
 			isa = PBXGroup;
 			children = (
 				568A96AF1ABA4A4F004BD4A7 /* AppDelegate.swift */,
-				568A96B11ABA4A4F004BD4A7 /* FirstViewController.swift */,
-				568A96B31ABA4A4F004BD4A7 /* SecondViewController.swift */,
+				568A96B11ABA4A4F004BD4A7 /* Calendar.swift */,
+				568A96B31ABA4A4F004BD4A7 /* Colleges.swift */,
+				566CE2A91ABA555F0010F2B9 /* Announcements.swift */,
 				568A96B51ABA4A4F004BD4A7 /* Main.storyboard */,
 				568A96B81ABA4A4F004BD4A7 /* Images.xcassets */,
 				568A96BA1ABA4A4F004BD4A7 /* LaunchScreen.xib */,
@@ -215,9 +218,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				568A96B41ABA4A4F004BD4A7 /* SecondViewController.swift in Sources */,
+				566CE2AA1ABA555F0010F2B9 /* Announcements.swift in Sources */,
+				568A96B41ABA4A4F004BD4A7 /* Colleges.swift in Sources */,
 				568A96B01ABA4A4F004BD4A7 /* AppDelegate.swift in Sources */,
-				568A96B21ABA4A4F004BD4A7 /* FirstViewController.swift in Sources */,
+				568A96B21ABA4A4F004BD4A7 /* Calendar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +413,7 @@
 				568A96CD1ABA4A4F004BD4A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		568A96CE1ABA4A4F004BD4A7 /* Build configuration list for PBXNativeTarget "MagisTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				568A96D01ABA4A4F004BD4A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

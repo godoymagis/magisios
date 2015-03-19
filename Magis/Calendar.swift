@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  Calendar.swift
 //  Magis
 //
 //  Created by Jose Godoy on 3/18/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class Calendar: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
