@@ -164,7 +164,7 @@
         <!--Announcements View Controller-->
         <scene sceneID="oiR-3H-N0u">
             <objects>
-                <viewController id="2aW-Mi-Pz8" userLabel="Announcements View Controller" sceneMemberID="viewController">
+                <viewController id="2aW-Mi-Pz8" userLabel="Announcements View Controller" customClass="ChosenAnnouncement" customModule="Magis" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Xxv-m3-Toy">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
