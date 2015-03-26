@@ -29,7 +29,6 @@
 
 /* Begin PBXFileReference section */
 		566CE2A91ABA555F0010F2B9 /* Announcements.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Announcements.swift; sourceTree = "<group>"; };
-		567D961E1AC3902100EF81FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		568A96AA1ABA4A4F004BD4A7 /* Magis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Magis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		568A96AE1ABA4A4F004BD4A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		568A96AF1ABA4A4F004BD4A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -251,7 +250,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				568A96B61ABA4A4F004BD4A7 /* Base */,
-				567D961E1AC3902100EF81FD /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
