@@ -1,0 +1,30 @@
+
+/* Class = "IBUILabel"; text = "Announcements"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "Announcements";
+
+/* Class = "IBUITabBarItem"; title = "Announcements"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Announcements";
+
+/* Class = "IBUITabBarItem"; title = "Colleges"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Colleges";
+
+/* Class = "IBUILabel"; text = "Calendar"; ObjectID = "dVc-Ri-9Wp"; */
+"dVc-Ri-9Wp.text" = "Calendar";
+
+/* Class = "IBUITabBarItem"; title = "Calendar"; ObjectID = "f6B-Or-Iwf"; */
+"f6B-Or-Iwf.title" = "Calendar";
+
+/* Class = "IBUITextField"; text = "Step 1: Check Colleges"; ObjectID = "fDe-1v-yF6"; */
+"fDe-1v-yF6.text" = "Step 1: Check Colleges";
+
+/* Class = "IBUITextView"; text = "Password"; ObjectID = "n6Z-AY-XLF"; */
+"n6Z-AY-XLF.text" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "yC0-SI-Yez"; */
+"yC0-SI-Yez.normalTitle" = "Login";
+
+/* Class = "IBUILabel"; text = "Colleges"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Colleges";
+
+/* Class = "IBUITextView"; text = "Username"; ObjectID = "zNz-cc-mdU"; */
+"zNz-cc-mdU.text" = "Username";
